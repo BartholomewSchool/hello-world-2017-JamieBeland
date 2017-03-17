@@ -1,3 +1,3 @@
 <?PHP
-eho "HelloWorld"
+echo "HelloWorld"
 ?>
